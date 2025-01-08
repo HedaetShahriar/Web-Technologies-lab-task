@@ -1,0 +1,121 @@
+body, html{
+    margin: 10px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.id{
+    width: 746px;
+    height: 50px;
+    border: 2px black solid;
+}
+.background{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.leftbox{
+    width: 150px;
+    height: auto;
+    border: 2px black solid;
+    text-align: center;
+    box-sizing: border-box;
+}
+.leftbox ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.leftbox ul li {
+    border-radius: 2px;
+    padding: 5px;
+    text-align: center;
+}   
+.middlebox{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.rightbox{
+    width: 150px;
+    height: auto;
+    border: 2px black solid;
+}
+.box1{
+    display: flex;
+    flex-direction: column;
+    width: 420px;
+    height: 132px;
+    border: 2px black solid;
+    box-sizing: border-box;
+}
+.boxBook{
+    display: flex;
+    flex-direction: column;
+    width: 420px;
+    height: auto;
+    border: 2px black solid;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.boxBook h4{
+    margin-bottom: 5px;
+    margin-top: 0px;
+    align-self: center;
+}
+.box2Background{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.box2{
+    width: 131px;
+    height: 132px;
+    border: 2px black solid;
+}
+.box3background{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.box3{
+    width: 136px;
+    height: auto;
+    border: 2px black solid;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.box3 ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.box3 ul li {
+    border-radius: 2px;
+    padding: 5px;
+    text-align: center;
+}
+.box4{
+    width: 276px;
+    height: auto;
+    border: 2px black solid;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+.process{
+    width: 300px;
+    height: auto;
+    border: 2px black solid;
+    padding: 10px;
+}
