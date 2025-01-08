@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="./styles/style.css">
 </head>
 <body>
-    <img src="ID.png" alt="./images/ID" class="id">
+    <img src="./images/ID.png" alt="ID" class="id">
     <div class="background">
         <div class="leftbox">
             <!--Show used tokens-->
