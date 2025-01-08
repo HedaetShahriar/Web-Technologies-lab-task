@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Book Borrowoing Management System</title>
+    <title>Book Borrowing Management System</title>
     <link rel="stylesheet" href="./styles/style.css">
 </head>
 <body>
