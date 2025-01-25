@@ -7,6 +7,48 @@ body, html{
     align-items: center;
     gap: 10px;
 }
+.table-container {
+    height: 132px;
+    overflow-y: auto;
+}
+
+.booktable {
+    width: 100%; /* Optional: make sure the table takes up the full width of the container */
+    border-collapse: collapse;
+}
+
+.table-container1 {
+    height: 60px;
+    overflow-y: auto;
+}
+.booktable1 {
+    width: 100%; /* Optional: make sure the table takes up the full width of the container */
+    border-collapse: collapse;
+}
+.booktable1 input{
+    width: 100%;
+}
+
+.booktable {
+    width: 100%; /* Optional: make sure the table takes up the full width of the container */
+    border-collapse: collapse;
+}
+.searchForm{
+    display: flex;
+    width: 100%;
+    margin: 2px 2px 2px 2px;
+}
+.searchForm input[type="text"]{
+    width: 355PX;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+ 
+}
+
 .id{
     width: 746px;
     height: 50px;
